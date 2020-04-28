@@ -9,7 +9,7 @@ public class test {
     public static void main(String[] args) {
         System.out.println("吃了吗");
         System.out.println("aaa");
-        String a="";
+        String a="1";
         System.out.println(a);
         System.out.println(1+5);
 
